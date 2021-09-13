@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.6](https://www.github.com/ilya-lesikov/test/compare/v0.1.5...v0.1.6) (2021-09-13)
+
+
+### Features
+
+* xxx ([73f889c](https://www.github.com/ilya-lesikov/test/commit/73f889c1b48928487ce4695255e24e3171da3d42))
+
 ### [0.1.5](https://www.github.com/ilya-lesikov/test/compare/v1.0.0...v0.1.5) (2021-09-13)
 
 
